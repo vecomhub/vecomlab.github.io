@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'GrandisCondensed-Medium';
+   font-display: swap;
+   src: url('GrandisCondensed-Medium/font.ttf');
+}
+@font-face {
+   font-family: 'GrandisCondensed-Light';
+   font-display: swap;
+   src: url('GrandisCondensed-Light/font.ttf');
+}
