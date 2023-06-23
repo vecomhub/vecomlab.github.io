@@ -61,6 +61,8 @@
     "versionPublish": "5.8.9",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "usedWebp": true
   },
   "pages": {
