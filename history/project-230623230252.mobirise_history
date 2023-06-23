@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vecom LAB — Science & Technology",
-    "currentPage": "terms-of-service.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -61,6 +61,8 @@
     "versionPublish": "5.8.9",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "usedWebp": true
   },
   "pages": {
